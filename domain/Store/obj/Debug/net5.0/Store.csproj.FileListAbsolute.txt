@@ -1,0 +1,12 @@
+C:\Users\mishi\source\repos\store\domain\Store\bin\Debug\net5.0\Store.deps.json
+C:\Users\mishi\source\repos\store\domain\Store\bin\Debug\net5.0\Store.dll
+C:\Users\mishi\source\repos\store\domain\Store\bin\Debug\net5.0\ref\Store.dll
+C:\Users\mishi\source\repos\store\domain\Store\bin\Debug\net5.0\Store.pdb
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\Store.csprojAssemblyReference.cache
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\Store.AssemblyInfoInputs.cache
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\Store.AssemblyInfo.cs
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\Store.dll
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\ref\Store.dll
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\net5.0\Store.pdb

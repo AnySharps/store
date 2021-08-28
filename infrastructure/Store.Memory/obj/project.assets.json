@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Store/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Store.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Store.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Store/1.0.0": {
+      "type": "project",
+      "path": "../../domain/Store/Store.csproj",
+      "msbuildProject": "../../domain/Store/Store.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Store >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mishi\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mishi\\source\\repos\\store\\domain\\Store\\Store.csproj",
-      "projectName": "Store",
-      "projectPath": "C:\\Users\\mishi\\source\\repos\\store\\domain\\Store\\Store.csproj",
+      "projectUniqueName": "C:\\Users\\mishi\\source\\repos\\store\\infrastructure\\Store.Memory\\Store.Memory.csproj",
+      "projectName": "Store.Memory",
+      "projectPath": "C:\\Users\\mishi\\source\\repos\\store\\infrastructure\\Store.Memory\\Store.Memory.csproj",
       "packagesPath": "C:\\Users\\mishi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mishi\\source\\repos\\store\\domain\\Store\\obj\\",
+      "outputPath": "C:\\Users\\mishi\\source\\repos\\store\\infrastructure\\Store.Memory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -40,7 +59,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\mishi\\source\\repos\\store\\domain\\Store\\Store.csproj": {
+              "projectPath": "C:\\Users\\mishi\\source\\repos\\store\\domain\\Store\\Store.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

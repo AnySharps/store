@@ -1,0 +1,12 @@
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\bin\Debug\netcoreapp3.1\Store.Memory.deps.json
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\bin\Debug\netcoreapp3.1\Store.Memory.dll
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\bin\Debug\netcoreapp3.1\Store.Memory.pdb
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\bin\Debug\netcoreapp3.1\Store.dll
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\bin\Debug\netcoreapp3.1\Store.pdb
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\obj\Debug\netcoreapp3.1\Store.Memory.csprojAssemblyReference.cache
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\obj\Debug\netcoreapp3.1\Store.Memory.AssemblyInfoInputs.cache
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\obj\Debug\netcoreapp3.1\Store.Memory.AssemblyInfo.cs
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\obj\Debug\netcoreapp3.1\Store.Memory.csproj.CoreCompileInputs.cache
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\obj\Debug\netcoreapp3.1\Store.Memory.csproj.CopyComplete
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\obj\Debug\netcoreapp3.1\Store.Memory.dll
+C:\Users\mishi\source\repos\store\infrastructure\Store.Memory\obj\Debug\netcoreapp3.1\Store.Memory.pdb

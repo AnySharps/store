@@ -1,0 +1,8 @@
+C:\Users\mishi\source\repos\store\domain\Store\bin\Debug\netcoreapp3.1\Store.deps.json
+C:\Users\mishi\source\repos\store\domain\Store\bin\Debug\netcoreapp3.1\Store.dll
+C:\Users\mishi\source\repos\store\domain\Store\bin\Debug\netcoreapp3.1\Store.pdb
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfoInputs.cache
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\netcoreapp3.1\Store.AssemblyInfo.cs
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\netcoreapp3.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\netcoreapp3.1\Store.dll
+C:\Users\mishi\source\repos\store\domain\Store\obj\Debug\netcoreapp3.1\Store.pdb
